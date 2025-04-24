@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\novo 2 godina 2\vezbe3\vezbe3\main.cpp(95,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generating code
+  1 of 274 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  vezbe3.vcxproj -> D:\novo 2 godina 2\vezbe3\x64\Release\vezbe3.exe

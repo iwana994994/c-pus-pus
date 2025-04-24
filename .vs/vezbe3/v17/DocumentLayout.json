@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\novo 2 godina 2\\vezbe3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCA52C0-CAD5-4F65-9EDC-0DCF7500B240}|vezbe3\\vezbe3.vcxproj|D:\\novo 2 godina 2\\vezbe3\\vezbe3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CCA52C0-CAD5-4F65-9EDC-0DCF7500B240}|vezbe3\\vezbe3.vcxproj|solutionrelative:vezbe3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 121,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\novo 2 godina 2\\vezbe3\\vezbe3\\main.cpp",
+              "RelativeDocumentMoniker": "vezbe3\\main.cpp",
+              "ToolTip": "D:\\novo 2 godina 2\\vezbe3\\vezbe3\\main.cpp",
+              "RelativeToolTip": "vezbe3\\main.cpp",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T16:28:04.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
