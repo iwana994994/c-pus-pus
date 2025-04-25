@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\novo 2 godina 2\vezba4\vezba4\main.cpp(122,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  vezba4.vcxproj -> D:\novo 2 godina 2\vezba4\x64\Debug\vezba4.exe
