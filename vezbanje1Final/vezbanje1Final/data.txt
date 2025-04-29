@@ -1,0 +1,12 @@
+Avion [A1] leti na visini od 10000m.
+
+Avion [O1] leti na visini od 10000m.
+
+Avion [Z1] leti na visini od 10000m.
+
+Helikopter [H2] leti na visini od 2000m.
+
+Helikopter [C2] leti na visini od 2000m.
+
+Helikopter [L2] leti na visini od 2000m.
+

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\novo 2 godina 2\vezbanje1Final\vezbanje1Final\main.cpp(110,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  vezbanje1Final.vcxproj -> D:\novo 2 godina 2\vezbanje1Final\x64\Debug\vezbanje1Final.exe
