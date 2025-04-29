@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\novo 2 godina 2\VEZBA ISPIT 2\VEZBA ISPIT 2\main.cpp(29,9): warning C4834: discarding return value of function with [[nodiscard]] attribute
+D:\novo 2 godina 2\VEZBA ISPIT 2\VEZBA ISPIT 2\main.cpp(47,11): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  VEZBA ISPIT 2.vcxproj -> D:\novo 2 godina 2\VEZBA ISPIT 2\x64\Debug\VEZBA ISPIT 2.exe

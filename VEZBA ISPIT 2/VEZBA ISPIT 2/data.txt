@@ -1,0 +1,3 @@
+Motor Suzuki3 | 550z | CC02 | 550.000000
+Motor Suzuki2 | 600z | BB02 | 650.000000
+Motor Suzuki | 750z | AA02 | 750.000000
